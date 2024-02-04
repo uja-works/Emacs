@@ -185,4 +185,3 @@
 ;;(copilot-mode 1)
 
 (load "~/Dropbox/Dropsync/Emacs/uja.el")
-
